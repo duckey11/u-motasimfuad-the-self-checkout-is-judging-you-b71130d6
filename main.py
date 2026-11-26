@@ -9,7 +9,7 @@ import os
 LINE = (
     "Twelve energy drinks, one banana, and a candle that smells like "
     "'fresh linen.' You are not grocery shopping. "
-    "You are staging a cry for help."
+    "You are rehearsing a cry for help."
 )
 
 
